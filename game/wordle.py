@@ -1,7 +1,7 @@
 import random
 from enum import Enum
-from collections import defaultdict
 from typing import Optional
+from collections import defaultdict
 
 class LetterStatus(Enum):
     GOOD_LETTER_GOOD_POSITION = 1
